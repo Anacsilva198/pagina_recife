@@ -30,4 +30,13 @@ h1 {
     color: darkred;
 }
 
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 20px 0;
+    padding-bottom: 20px
+}
+
 
